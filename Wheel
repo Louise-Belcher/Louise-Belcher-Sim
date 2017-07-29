@@ -1,0 +1,4 @@
+a:active img {
+    -webkit-transform: rotate(600deg);
+    -webkit-transition: -webkit-transform 2s ease-out;
+}
